@@ -22,6 +22,8 @@ Bibtex:
   title={ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image},
   author={Kim, Namwon and Han, Seong-Soo and Jeong, Chang-Sung},
   journal={IEEE Access},
+  volume={11},
+  pages={106{587}--106{606}},
   year={2023},
   publisher={IEEE}
 }
