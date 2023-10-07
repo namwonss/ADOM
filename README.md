@@ -3,7 +3,7 @@
 <br/>
 [ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image](https://ieeexplore.ieee.org/abstract/document/10262317)
 
-We will soon update the **MATLAB code** for the paper accepted in IEEE Access on this GitHub.<br/>
+We will soon update the **MATLAB code** for the paper accepted in IEEE Access.<br/>
 
 The MATLAB code used in our research will be made available, allowing others to access and utilize it for further study and experimentation.
 
