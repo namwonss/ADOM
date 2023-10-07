@@ -1,5 +1,7 @@
 # ADOM
-ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image
+[ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image](https://ieeexplore.ieee.org/abstract/document/10262317)
+
+
 
 
 
