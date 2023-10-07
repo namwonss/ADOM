@@ -19,7 +19,7 @@ Bibtex:
 
 ```latex
 @article{kim2023adom,
-  title={ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image},
+  title={{ADOM}: {ADMM}-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image},
   author={Kim, Namwon and Han, Seong-Soo and Jeong, Chang-Sung},
   journal={IEEE Access},
   volume={11},
