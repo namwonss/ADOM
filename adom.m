@@ -41,7 +41,7 @@ function [s,bag]=adom(o,opts)
         % update weights control
         weight1 = (a2+cal_tolerance+eps)/(a1-cal_tolerance+eps);
         
-        % starting point control
+        % start point control
         if iter <= 10
             a1 = a2;
             a2 = (1+sqrt(1+(4*((a1)^2))))/2;
@@ -107,7 +107,7 @@ function [s,bag]=adom(o,opts)
         
         % update p
         % The golden ratio
-        % 1.618 ¡Ö (sqrt(5)+1)/2
+        % 1.618 Â¡Ã– (sqrt(5)+1)/2
         p1=p1+gamma*beta1*(Dys-a);
         p2=p2+gamma*beta2*(Dxs-b);
         p3=p3+gamma*beta3*(s-c);
