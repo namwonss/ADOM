@@ -9,12 +9,24 @@ IEEE Access, 2023
 
 <table>
   <tr>
-    <td><img src="results/clean.png" alt="Clean RSI"></td>
-    <td><img src="results/noisy.png" alt="Noisy"></td>
-    <td><img src="results/adom.png" alt="Destriping result (ADOM)"></td>
-    <td><img src="results/errormap_clean.png" alt="error map (clean)"></td>
-    <td><img src="results/errormap_noisy.png" alt="error map (noisy)"></td>
-    <td><img src="results/errormap_adom.png" alt="error map (ADOM)"></td>
+    <td><img src="results/clean.png" alt="Clean RSI">
+    <p>Clean RSI</p>
+    </td>
+    <td><img src="results/noisy.png" alt="Noisy">
+    <p>Noisy</p>
+    </td>
+    <td><img src="results/adom.png" alt="Destriping result (ADOM)">
+    <p>Destriping result (ADOM)</p>
+    </td>
+    <td><img src="results/errormap_clean.png" alt="Error map (Clean)">
+    <p>Error map (Clean)</p>
+    </td>
+    <td><img src="results/errormap_noisy.png" alt="Error map (Noisy)">
+    <p>Error map (Noisy)</p>
+    </td>
+    <td><img src="results/errormap_adom.png" alt="Error map (ADOM)">
+    <p>Error map (ADOM)</p>
+    </td>
   </tr>
 </table>
 
