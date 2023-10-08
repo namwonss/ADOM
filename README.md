@@ -5,6 +5,8 @@ IEEE Access, 2023
 <br/>
 [Manuscript](https://ieeexplore.ieee.org/abstract/document/10262317)
 
+<br/> This is the official code for the paper ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image (accepted to IEEE Access 2023). <br/>
+
 <br/>This MATLAB code serves as a demo of the ADOM in our manuscript, offering a clear and organized workflow for stripe noise removal in remote sensing images (RSI).<br/>
 
 <table>
