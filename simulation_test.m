@@ -143,6 +143,7 @@ function [output,iteration] = destriping(Is,peakval)
 %     opts.beta2=5;
 %     opts.beta3=5;
 %     opts.lambda1=1.e-1;
+%     opts.lambda2=1.e-1;
 %     opts.lambda2=1.e-1+5.e-2;
 
     % case 1, 2, 4
