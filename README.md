@@ -1,7 +1,7 @@
 # [ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image](https://ieeexplore.ieee.org/abstract/document/10262317)
 **Namwon Kim, Seong-Soo Han, and Chang-sung Jeong**
 <br/>
-[ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image](https://ieeexplore.ieee.org/abstract/document/10262317)
+[Manuscript](https://ieeexplore.ieee.org/abstract/document/10262317)
 
 <br/>We will soon update the **MATLAB code** for the paper accepted in IEEE Access.<br/>
 
