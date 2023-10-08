@@ -5,7 +5,7 @@ IEEE Access, 2023
 <br/>
 [Manuscript](https://ieeexplore.ieee.org/abstract/document/10262317)
 
-<br/>This MATLAB code serves as a demo of the ADOM in our manuscript, offering a clear and organized workflow for removing stripe noise from remote sensing images.<br/>
+<br/>This MATLAB code serves as a demo of the ADOM in our manuscript, offering a clear and organized workflow for stripe noise removal in remote sensing images.<br/>
 
 
 # Abstract
