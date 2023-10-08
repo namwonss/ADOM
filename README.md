@@ -1,4 +1,4 @@
-# ADOM (Accepted by IEEE Access 2023)
+# [ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image](https://ieeexplore.ieee.org/abstract/document/10262317)
 **Namwon Kim, Seong-Soo Han, and Chang-sung Jeong**
 <br/>
 [ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image](https://ieeexplore.ieee.org/abstract/document/10262317)
