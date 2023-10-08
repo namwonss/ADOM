@@ -47,7 +47,7 @@ run simulation_test.m
 <br/>This command will initiate the simulation specified in the simulation_test.m script and execute the code within that file. Make sure you are in the correct directory or provide the full file path if simulation_test.m is not in your current working directory.
 
 
-# Citations
+# Citation
 
 Please cite our paper in your manuscript if it helps your research.
 
