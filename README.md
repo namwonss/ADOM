@@ -9,22 +9,22 @@ IEEE Access, 2023
 
 <table>
   <tr>
-    <td><img src="results/clean.png" alt="Clean RSI">
+    <td style="width: 150px;"><img src="results/clean.png" alt="Clean RSI" width="100%">
     <p>Clean RSI</p>
     </td>
-    <td><img src="results/noisy.png" alt="Noisy">
+    <td style="width: 150px;"><img src="results/noisy.png" alt="Noisy">
     <p>Noisy</p>
     </td>
-    <td><img src="results/adom.png" alt="Destriping result (ADOM)">
+    <td style="width: 150px;"><img src="results/adom.png" alt="Destriping result (ADOM)" width="100%">
     <p>Destriping result (ADOM)</p>
     </td>
-    <td><img src="results/errormap_clean.png" alt="Error map (Clean)">
+    <td style="width: 150px;"><img src="results/errormap_clean.png" alt="Error map (Clean)" width="100%">
     <p>Error map (Clean)</p>
     </td>
-    <td><img src="results/errormap_noisy.png" alt="Error map (Noisy)">
+    <td style="width: 150px;"><img src="results/errormap_noisy.png" alt="Error map (Noisy)" width="100%">
     <p>Error map (Noisy)</p>
     </td>
-    <td><img src="results/errormap_adom.png" alt="Error map (ADOM)">
+    <td style="width: 150px;"><img src="results/errormap_adom.png" alt="Error map (ADOM)" width="100%">
     <p>Error map (ADOM)</p>
     </td>
   </tr>
