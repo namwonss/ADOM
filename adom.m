@@ -1,4 +1,4 @@
-% This is the code of ADOM for stripe noise removal in remote sensing images (RSI).
+% This is the official code of ADOM for stripe noise removal in remote sensing images (RSI).
 % ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image
 % IEEE Access
 % 09/25/2023
