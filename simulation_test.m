@@ -139,7 +139,6 @@ function [output,iteration] = destriping(Is,peakval)
     opts.maxitr=1000;
     
     % case 3, 5
-    % case nonperiodical+broken
 %     opts.beta1=5;
 %     opts.beta2=5;
 %     opts.beta3=5;
@@ -147,7 +146,6 @@ function [output,iteration] = destriping(Is,peakval)
 %     opts.lambda2=1.e-1+5.e-2;
 
     % case 1, 2, 4
-    % wdc nonperiodical+broken
     opts.beta1=1;
     opts.beta2=1;
     opts.beta3=1;
