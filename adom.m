@@ -41,7 +41,7 @@ function [s,bag]=adom(o,opts)
         % update weights control
         weight1 = (a2+cal_tolerance+eps)/(a1-cal_tolerance+eps);
         
-        % start point control
+        % starting point control
         if iter <= 10
             a1 = a2;
             a2 = (1+sqrt(1+(4*((a1)^2))))/2;
