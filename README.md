@@ -48,11 +48,9 @@ run simulation_test.m
 
 <br/>This command will initiate the simulation specified in the simulation_test.m script and execute the code within that file. Make sure you are in the correct directory or provide the full file path if simulation_test.m is not in your current working directory.
 <br/><br/>
-If MATLAB is not installed, please click on **Reproducible Run** at
+If MATLAB is not installed, please click on **Reproducible Run** at Code Ocean.
 <br/><br/>
 https://codeocean.com/capsule/9844095/tree
-<br/>
-.
 <br/><br/>
 This site includes a MATLAB runtime environment to test the simulation of ADOM.
 
