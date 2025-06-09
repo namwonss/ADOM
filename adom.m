@@ -2,7 +2,7 @@
 % ADOM: ADMM-Based Optimization Model for Stripe Noise Removal in Remote Sensing Image
 % IEEE Access
 % 09/25/2023
-% Namwon Kim (namwon@korea.ac.kr)
+% Namwon Kim (namwon@kaist.ac.kr)
 
 function [s,bag]=adom(o,opts)
     Dx=defDDxt;  %x-direction finite function
